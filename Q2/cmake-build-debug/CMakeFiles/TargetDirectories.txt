@@ -1,0 +1,3 @@
+C:/Users/moeez/OneDrive/Desktop/Rayyan_Assignment/Q2/cmake-build-debug/CMakeFiles/Q2.dir
+C:/Users/moeez/OneDrive/Desktop/Rayyan_Assignment/Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moeez/OneDrive/Desktop/Rayyan_Assignment/Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
